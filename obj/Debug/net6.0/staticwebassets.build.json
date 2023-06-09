@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uHmWiZJQhDRECHm8uCsHyeJT1kdG8X+wiYZzImH4ocE=",
+  "Source": "AdminPolizasAPI",
+  "BasePath": "_content/AdminPolizasAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
