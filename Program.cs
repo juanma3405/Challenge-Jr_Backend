@@ -29,8 +29,13 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseCors();
+//app.UseRouting();
 app.UseAuthorization();
 
+/*app.UseEndpoints(endpoints =>
+{
+    endpoints.MapControllers();
+});*/
 app.MapControllers();
 
 app.Run();
