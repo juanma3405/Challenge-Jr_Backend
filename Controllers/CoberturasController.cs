@@ -35,7 +35,7 @@ namespace AdminPolizasAPI.Controllers
         }
 
         [HttpPost]
-        public async Task<ActionResult> CrerCobertura (Cobertura cobertura)
+        public async Task<ActionResult> CrearCobertura (Cobertura cobertura)
         {
             var existeCobertura = await contexto.Coberturas.AnyAsync(c => c.Nombre == cobertura.Nombre);
             if (existeCobertura)

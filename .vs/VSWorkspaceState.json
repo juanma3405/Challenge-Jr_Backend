@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Entidades"
+    "\\Controllers",
+    "\\DTO",
+    "\\Entidades",
+    "\\Properties"
   ],
-  "SelectedNode": "\\Entidades\\PolizasCoberturas.cs",
+  "SelectedNode": "\\DTO\\PolizaDTO.cs",
   "PreviewInSolutionExplorer": false
 }
